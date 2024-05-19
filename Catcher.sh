@@ -1,7 +1,5 @@
 # Network-Monitoring
 
-Catcher.SH
-
 #!/bin/bash
 
 #Directory for stored logs
